@@ -1,12 +1,12 @@
 {
-  "name": "kurisu/captcha_reader",
-  "description": "kurisu/captcha_reader",
+  "name": "kyzkkk/captcha_reader",
+  "description": "copy from kurisu/captcha_reader",
   "type": "project",
   "license": "MIT",
   "authors": [
     {
-      "name": "kurisu",
-      "email": "Kuri-su@users.noreply.github.com"
+      "name": "kyzkkk",
+      "email": "kyzone@vip.qq.com"
     }
   ],
   "minimum-stability": "stable",
